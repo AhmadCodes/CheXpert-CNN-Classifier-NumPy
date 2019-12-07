@@ -1,0 +1,23 @@
+ ==============================================================================
+         Required Python Packages
+ ==============================================================================
+
+1- pickle
+2- pandas 
+3- numpy 
+4- builtins
+5- numba
+6- numexpr
+7- skimage
+
+ ==============================================================================
+         Recommended Environments
+ ==============================================================================
+ -> Python 3.7 (Anaconda Release)
+ -> Sypder IDE
+ 
+
+NOTE:
+The software was developed in Ubuntu 18.04. The directory uses the ubunty styling,
+The software has not been tested in Windows or Linux, if errors due to OS change
+occurs then adjust accordingly.
